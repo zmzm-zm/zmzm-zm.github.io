@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : ""成为万劫不朽的纳西妲厨吧""
+title                    : "成为万劫不朽的纳西妲厨吧"
 title_separator          : "-"
 name                     : &name "zmzm"
 description              : &description "一个平平无奇的纳西妲厨罢了"
