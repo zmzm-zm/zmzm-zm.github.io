@@ -6,7 +6,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<html>
+  
+  <head>
 <link rel="stylesheet" href="/assets/css/style.css">
+  </head>
+  
+  <body>
 <hr>
 <p>本人qq主页:<a 
 href ="https://qm.qq.com/q/QEjb2t4e6A"
@@ -46,3 +52,5 @@ height ="300">
   <input type="checkbox" name="cause">纳西妲很温柔<br><br>
 </form>
 <hr>
+  </body>
+</html>
