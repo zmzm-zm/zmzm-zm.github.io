@@ -6,9 +6,8 @@
 }
 .test {
     display: inline-block;
-    background-color: lightgreen;
-    padding: 50px;
-    border-style: double;
+    padding: 0;
+    border-style: dotted;
     border-width: 5px 0;
-    border-color: limegreen;
+    border-color: lightgreen;
 }
