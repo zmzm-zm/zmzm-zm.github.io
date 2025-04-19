@@ -38,18 +38,22 @@ targer ="_blank">点我传送
 height ="300">
 <hr>
 <form>
-    <label>你知道纳西妲的生日吗？</label><br>
-    <input type="radio" name="one">3月7<br><br>
-    <input type="radio" name="one">10月27<br><br>
-    <input type="radio" name="one">11月45<br><br>
-    <input type="radio" name="one">13月32<br><br>
+    <label id="cl">你知道纳西妲的生日吗？</label><br>
+    <input type="radio" name="one" id="stopcolor">3月7<br><br>
+    <input type="radio" name="one" id="stopcolor">10月27<br><br>
+    <input type="radio" name="one"
+id="stopcolor">11月45<br><br>
+    <input type="radio" name="one"
+id="stopcolor">13月32<br><br>
 </form>
 <hr>
 <form>
-  <label>为什么喜欢纳西妲？</label><br>
-  <input type="checkbox" name="cause">纳西妲太可爱了<br><br>
-  <input type="checkbox" name="cause">喜欢纳西妲不需要理由<br><br>
-  <input type="checkbox" name="cause">纳西妲很温柔<br><br>
+  <label id="cl">为什么喜欢纳西妲？</label><br>
+  <input type="checkbox" name="cause" id="stopcolor">纳西妲太可爱了<br><br>
+  <input type="checkbox" name="cause"
+id="stopcolor">喜欢纳西妲不需要理由<br><br>
+  <input type="checkbox" name="cause"
+id="stopcolor">纳西妲很温柔<br><br>
 </form>
 <hr>
   </body>
