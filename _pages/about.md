@@ -7,6 +7,12 @@ redirect_from:
   - /about.html
 ---
 
+<hr>
+<p>本人qq主页:<a 
+href ="https://qm.qq.com/q/QEjb2t4e6A"
+targer ="_blank">点我传送
+</a></p>
+<hr>
 <p>评价纳西妲:</p>
 <table>   
     <tr>
@@ -23,3 +29,4 @@ redirect_from:
 <hr>
 <p>纳西妲靓照:</p>
 <img src="https://i.postimg.cc/Y9v6kLK9/nxd.png">
+<hr>
