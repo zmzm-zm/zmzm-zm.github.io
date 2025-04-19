@@ -11,3 +11,17 @@
     border-width: 5px 0;
     border-color: yellowgreen;
 }
+.testt {
+    display: inline-block;
+    padding: 0;
+    border-style: dotted;
+    border-width: 0 5px;
+    border-color: yellowgreen;
+}
+.testtt {
+    display: inline-block;
+    padding: 0;
+    border-style: dotted;
+    border-width: 0 5px 0 0;
+    border-color: yellowgreen;
+}
