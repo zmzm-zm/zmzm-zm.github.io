@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-评价纳西妲;
+<p>评价纳西妲:</p>
 <table>   
     <tr>
         <th>手</th>
@@ -19,3 +19,7 @@ redirect_from:
         <td>好看!</td>
         <td>好看!</td>
     </tr>
+</table>
+<hr>
+<p>纳西妲靓照:</p>
+<img src="https://i.postimg.cc/Y9v6kLK9/nxd.png">
