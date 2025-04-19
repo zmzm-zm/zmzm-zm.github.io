@@ -1,9 +1,6 @@
-p {
-    color: yellowgreen;
-}
 #cl {
     color: yellowgreen;
 }
-#stopcolor:hover {
+#sc:hover {
     background-color: palegreen;
 }
