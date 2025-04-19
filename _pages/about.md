@@ -39,21 +39,21 @@ height ="300">
 <hr>
 <form>
     <label id="cl">你知道纳西妲的生日吗？</label><br>
-    <input type="radio" name="one" id="stopcolor">3月7<br><br>
-    <input type="radio" name="one" id="stopcolor">10月27<br><br>
-    <input type="radio" name="one"
-id="stopcolor">11月45<br><br>
-    <input type="radio" name="one"
-id="stopcolor">13月32<br><br>
+    <p><input type="radio" name="one" id="stopcolor">3月7</p>
+    <p><input type="radio" name="one" id="stopcolor">10月27</p>
+    <p><input type="radio" name="one"
+id="stopcolor">11月45</p>
+    <p><input type="radio" name="one"
+id="stopcolor">13月32</p>
 </form>
 <hr>
 <form>
   <label id="cl">为什么喜欢纳西妲？</label><br>
-  <input type="checkbox" name="cause" id="stopcolor">纳西妲太可爱了<br><br>
-  <input type="checkbox" name="cause"
-id="stopcolor">喜欢纳西妲不需要理由<br><br>
-  <input type="checkbox" name="cause"
-id="stopcolor">纳西妲很温柔<br><br>
+  <p><input type="checkbox" name="cause" id="stopcolor">纳西妲太可爱了</p>
+  <p><input type="checkbox" name="cause"
+id="stopcolor">喜欢纳西妲不需要理由</p>
+  <p><input type="checkbox" name="cause"
+id="stopcolor">纳西妲很温柔</p>
 </form>
 <hr>
   </body>
