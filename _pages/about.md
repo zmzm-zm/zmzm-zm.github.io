@@ -28,5 +28,6 @@ targer ="_blank">点我传送
 </table>
 <hr>
 <p>纳西妲靓照:</p>
-<img src="https://i.postimg.cc/Y9v6kLK9/nxd.png">
+<img src="https://i.postimg.cc/Y9v6kLK9/nxd.png"
+height ="300">
 <hr>
