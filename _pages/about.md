@@ -31,3 +31,10 @@ targer ="_blank">点我传送
 <img src="https://i.postimg.cc/Y9v6kLK9/nxd.png"
 height ="300">
 <hr>
+<form>
+    <label>你知道纳西妲的生日吗？</label><br>
+    <input type="radio" name="one">3月7<br>
+    <input type="radio" name="one">10月27<br>
+    <input type="radio" name="one">11月45<br>
+    <input type="radio" name="one">13月32<br>
+</form>
