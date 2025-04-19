@@ -14,12 +14,12 @@ redirect_from:
   
   <body>
 <hr>
-<p>本人qq主页:<a 
+<p id="cl">本人qq主页:<a 
 href ="https://qm.qq.com/q/QEjb2t4e6A"
 targer ="_blank">点我传送
 </a></p>
 <hr>
-<p>评价纳西妲:</p>
+<p id="cl">评价纳西妲:</p>
 <table>   
     <tr>
         <th>手</th>
@@ -33,27 +33,25 @@ targer ="_blank">点我传送
     </tr>
 </table>
 <hr>
-<p>纳西妲靓照:</p>
+<p id="cl">纳西妲靓照:</p>
 <img src="https://i.postimg.cc/Y9v6kLK9/nxd.png"
 height ="300">
 <hr>
 <form>
     <label id="cl">你知道纳西妲的生日吗？</label><br>
-    <p><input type="radio" name="one" id="stopcolor">3月7</p>
-    <p><input type="radio" name="one" id="stopcolor">10月27</p>
-    <p><input type="radio" name="one"
-id="stopcolor">11月45</p>
-    <p><input type="radio" name="one"
-id="stopcolor">13月32</p>
+    <p id="sc"><input type="radio" name="one">3月7</p>
+    <p id="sc"><input type="radio" name="one">10月27</p>
+    <p id="sc"><input type="radio" name="one">11月45</p>
+    <p id="sc"><input type="radio" name="one">13月32</p>
 </form>
 <hr>
 <form>
   <label id="cl">为什么喜欢纳西妲？</label><br>
-  <p><input type="checkbox" name="cause" id="stopcolor">纳西妲太可爱了</p>
-  <p><input type="checkbox" name="cause"
-id="stopcolor">喜欢纳西妲不需要理由</p>
-  <p><input type="checkbox" name="cause"
-id="stopcolor">纳西妲很温柔</p>
+  <p id="sc"><input type="checkbox" name="cause">纳西妲太可爱了</p>
+  <p id="sc"><input type="checkbox" name="cause"
+>喜欢纳西妲不需要理由</p>
+  <p id="sc"><input type="checkbox" name="cause"
+>纳西妲很温柔</p>
 </form>
 <hr>
   </body>
