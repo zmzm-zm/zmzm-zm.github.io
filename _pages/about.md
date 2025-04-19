@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+<link rel="stylesheet" href="/assets/css/style.css">
 <hr>
 <p>本人qq主页:<a 
 href ="https://qm.qq.com/q/QEjb2t4e6A"
