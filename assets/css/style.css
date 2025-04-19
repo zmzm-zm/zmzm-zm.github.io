@@ -26,6 +26,7 @@
     border-color: yellowgreen;
 }
 .ot {
-    width:140;
-    height:250;
+    width:140px;
+    height:250px;
+    dispaly:inline-block;
 }
