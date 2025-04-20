@@ -32,3 +32,8 @@
     display:inline-block;
     float:right;
 }
+.fl {
+    position:absolute;
+    left:350px;
+    bottom:10px;
+}
