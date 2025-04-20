@@ -17,6 +17,7 @@
     border-style: dotted;
     border-width: 0 5px 5px 5px;
     border-color: yellowgreen;
+    float:left;
 }
 .testtt {
     display: inline-block;
@@ -24,9 +25,5 @@
     border-style: dotted;
     border-width: 0 5px 5px 0;
     border-color: yellowgreen;
-}
-.ot {
-    width:175px;
-    height:350px;
-    display:inline-block;
+    float:right
 }
