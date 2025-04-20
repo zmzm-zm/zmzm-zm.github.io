@@ -54,7 +54,7 @@ height ="300">
 >纳西妲很温柔</p>
 </form>
 <hr>
-
+<p id="cl">收藏集:</p>
 <span class="fl">
   <img
 src="https://i.postimg.cc/Bb8CMV7P/1745115039051.png" width="70">
@@ -72,5 +72,6 @@ src="https://i.postimg.cc/Bb8CMV7P/1745115039051.png" width="70">
 <span class="ot testtt">
   <img src="https://i.postimg.cc/c483jZDJ/IMG-20250419-221259.jpg" width="172">
 </span>   
+<hr>
   </body>
 </html>
