@@ -54,6 +54,12 @@ height ="300">
 >纳西妲很温柔</p>
 </form>
 <hr>
+
+<span class="fl">
+  <img
+src="https://i.postimg.cc/Bb8CMV7P/1745115039051.png" width="70">
+</span>
+
 <span class="test">
   <img src="https://i.postimg.cc/9MnV56xm/Image-22103248167870.jpg" width="350"></span><br>
 
