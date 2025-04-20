@@ -4,6 +4,9 @@
 #sc:hover {
     background-color: palegreen;
 }
+#sc {
+    font-size:10px;
+}
 .test {
     display: inline-block;
     padding: 0;
