@@ -55,10 +55,10 @@ height ="300">
 </form>
 <hr>
 <div class="test"><img src="https://i.postimg.cc/9MnV56xm/Image-22103248167870.jpg" width="350"></div>
- <span class="testt"><img src="https://i.postimg.cc/VNwXnTWk/Image-23325805408393.png" width="172"></span>
+ <span class="testt"><img src="https://i.postimg.cc/VNwXnTWk/Image-23325805408393.png" width="172.5"></span>
 <span class="ot testtt">
-  <img src="https://i.postimg.cc/d3gy1S0v/IMG-20250419-221249.jpg" width="172">
-  <img src="https://i.postimg.cc/c483jZDJ/IMG-20250419-221259.jpg" width="172">
+  <img src="https://i.postimg.cc/d3gy1S0v/IMG-20250419-221249.jpg" width="172.5">
+  <img src="https://i.postimg.cc/c483jZDJ/IMG-20250419-221259.jpg" width="172.5">
 </span>   
   </body>
 </html>
