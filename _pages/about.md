@@ -55,6 +55,7 @@ height ="300">
 </form>
 <hr>
 <p id="cl">收藏集:</p>
+<div>    
 <span class="fl">
   <img
 src="https://i.postimg.cc/Bb8CMV7P/1745115039051.png" width="70">
@@ -72,6 +73,7 @@ src="https://i.postimg.cc/Bb8CMV7P/1745115039051.png" width="70">
 <span class="ot testtt">
   <img src="https://i.postimg.cc/c483jZDJ/IMG-20250419-221259.jpg" width="172">
 </span> <br>  
+</div>
 <hr>
 <form>
   <p id="sc"><input type="text" placeholder="来将可留姓名"></p>
