@@ -74,10 +74,7 @@ src="https://i.postimg.cc/Bb8CMV7P/1745115039051.png" width="70">
 </span> <br>  
 <hr>
 <form>
-  <input id="stop "type="text" placeholder="来将可留姓名"><br>
-  <input id="stop "type="text" placeholder="来将可留姓名"><br>
-  <input id="stop "type="text" placeholder="来将可留姓名"><br>
-  <input id="stop "type="text" placeholder="来将可留姓名"><br>
+  <p id="sc"><input type="text" placeholder="来将可留姓名"></p>
 </form>
 <hr>
   </body>
