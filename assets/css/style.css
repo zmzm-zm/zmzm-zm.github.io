@@ -25,5 +25,10 @@
     border-style: dotted;
     border-width: 0 5px 5px 0;
     border-color: yellowgreen;
-    float:right
+}
+.ot {
+    width:175px;
+    height:350px;
+    display:inline-block;
+    float:right;
 }
